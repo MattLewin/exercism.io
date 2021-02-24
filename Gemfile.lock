@@ -134,7 +134,7 @@ GEM
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rb-readline (0.5.3)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     redis (3.3.3)
     rerun (0.11.0)
       listen (~> 3.0)
@@ -227,7 +227,7 @@ DEPENDENCIES
   rack-test
   rake (~> 10.5.0)
   rb-readline
-  redcarpet (~> 3.1)
+  redcarpet (~> 3.5)
   rerun
   rouge (~> 2.1.0)
   rubocop (= 0.36.0)
